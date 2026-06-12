@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Landing Page Qwen 3.5-4B
+
+A modern, fast landing page template built with React, TypeScript, and Vite. Optimized for performance and easy customization.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
